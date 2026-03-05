@@ -23,7 +23,7 @@ MODULE_LICENSE("GPL");
 #define DEFAULT_DST_PORT 3301
 
 
-#define DEV_NAME "udp"
+#define DEV_NAME "skibidi"
 #define DEV_MAJOR 300
 
 #define MAX_CONNECTIONS 128
